@@ -12,6 +12,8 @@ body {
 h1 {
   color: #ff99cc;
   text-align: center;
+  font-family:Comic Sans MS;
+  font-size:46px;
 }
 
 p {
