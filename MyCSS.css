@@ -5,16 +5,18 @@ body {
 }
 
 h1 {
-  color: #ffe6f2;
+  color: dark green;
   text-align: center;
   font-family:Comic Sans MS;
   font-size:46px;
+  text-shadow:2px 2px 8px green ;
 }
 h2 {
-  color: #ffe6f2;
+  color: dark green;
   text-align: center;
   font-family:Comic Sans MS;
   font-size:26px;
+  text-shadow:2px 2px 8px green ;
 }
 
 p {
