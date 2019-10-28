@@ -1,10 +1,11 @@
 
 body {
-  background-color: pink;
+  background-color: #00ffcc;
+  color:green;
 }
 
 h1 {
-  color: white;
+  color: green;
   text-align: center;
 }
 
@@ -12,6 +13,7 @@ p {
 text-align: center;
   font-family: verdana;
   font-size: 20px;
+  color: green;
 }
 img {
     display: block;
@@ -19,4 +21,8 @@ img {
     width:50%;
     height:auto;
     border-radius: 20%;
+}
+table {
+margin-left: auto;
+margin-right: auto;
 }
